@@ -1,6 +1,7 @@
 {
     "name": "semivori/yii",
     "description": "yii2 helper",
+    "license": "MIT",
     "type": "helper",
     "authors": [
         {
