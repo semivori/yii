@@ -9,6 +9,7 @@
             "email": "semivoriii@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "require-dev": {
         "symfony/var-dumper": "^5.3"
     },
