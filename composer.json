@@ -1,0 +1,19 @@
+{
+    "name": "semivori/yii",
+    "description": "yii2 helper",
+    "type": "helper",
+    "authors": [
+        {
+            "name": "semivori",
+            "email": "semivoriii@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "symfony/var-dumper": "^5.3"
+    },
+    "require": {
+        "yidas/yii2-composer-bower-skip": "^2.0",
+        "yiisoft/yii2": "2.0.*",
+        "pragmarx/ia-arr": "^7.3"
+    }
+}
