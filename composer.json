@@ -14,9 +14,9 @@
         "symfony/var-dumper": "^5.3"
     },
     "autoload": {
-        "classmap": [
-            "src/"
-        ]
+        "psr-4": {
+            "semivori\\yii\\": "src/"
+        }
     },
     "require": {
         "yidas/yii2-composer-bower-skip": "^2.0",
