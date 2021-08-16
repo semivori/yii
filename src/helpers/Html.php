@@ -1,7 +1,7 @@
 <?php
 
 
-namespace helpers;
+namespace semivori\yii\helpers;
 
 
 class Html extends \yii\helpers\Html

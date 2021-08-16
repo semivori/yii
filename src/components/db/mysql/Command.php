@@ -1,7 +1,7 @@
 <?php
 
 
-namespace components\db\mysql;
+namespace semivori\yii\components\db\mysql;
 
 
 class Command extends \yii\db\Command

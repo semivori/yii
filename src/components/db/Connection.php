@@ -1,7 +1,7 @@
 <?php
 
 
-namespace components\db;
+namespace semivori\yii\components\db;
 
 
 class Connection extends \yii\db\Connection

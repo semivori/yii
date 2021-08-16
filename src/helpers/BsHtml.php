@@ -1,7 +1,7 @@
 <?php
 
 
-namespace helpers;
+namespace semivori\yii\helpers;
 
 
 use yii\helpers\ArrayHelper;

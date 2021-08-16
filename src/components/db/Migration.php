@@ -1,7 +1,7 @@
 <?php
 
 
-namespace components\db;
+namespace semivori\yii\components\db;
 
 
 use yii\base\NotSupportedException;
